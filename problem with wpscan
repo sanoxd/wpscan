@@ -1,0 +1,4 @@
+hello i have a problem i try do 
+wpscan --url http://crehovot.org.oil --enumerate user
+and its dont work its said "the wordpress URL supplied'http://crehovot.org.il/' seems to be down.
+and i try any sites and its doing this from me why? and i need install the wpscan in wordpress ? or no 
